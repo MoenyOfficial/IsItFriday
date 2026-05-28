@@ -1,2 +1,1 @@
-# Is-It-Friday-
-Is it Friday?
+# Is It Friday?
